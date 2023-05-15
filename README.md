@@ -1,1 +1,1 @@
-# Artificial Intelligence Projects
+# 8-puzzle-and-8-queens-problem
